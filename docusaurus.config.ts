@@ -82,6 +82,11 @@ const config: Config = {
           position: 'left',
           label: 'Docs',
         },
+        {
+          to: 'docs/1.1.0/User%20Guide/Accessibility',
+          label: 'Version 1.1.0',
+          position: 'left',
+        },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/atticus29/symbiota-docs-docusaurus',
