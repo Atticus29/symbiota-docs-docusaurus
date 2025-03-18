@@ -4,7 +4,7 @@
     "description": "The label for version 1.1.0"
   },
   "sidebar.docSidebar.category.User Guide": {
-    "message": "User Guide",
+    "message": "Guia de Usarios",
     "description": "The label for category User Guide in sidebar docSidebar"
   }
 }

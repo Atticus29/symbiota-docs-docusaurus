@@ -1,7 +1,7 @@
 ---
-title: About
+title: 'Acerca de'
 ---
 
-[Symbiota Docs v1.3](https://symbiota.org/docs) is a central repository for documentation regarding Symbiota-based data portals. This site is maintained by the Symbiota Support Hub, but all Symbiota users are encouraged to contribute. [Contact Us](https://biokic.github.io/symbiota-docs/contact/) to contribute or provide feedback on this site.
+[Symbiota Docs](https://symbiota.org/docs) es un repositorio central de documentación sobre portales de datos basados en Symbiota. Este sitio es mantenido por Symbiota Support Hub, pero se alienta a todos los usuarios de Symbiota a contribuir. [Contáctenos](https://biokic.github.io/symbiota-docs/contact/) para contribuir o proporcionar comentarios sobre este sitio.
 
-[Symbiota](https://symbiota.org/) is an open-source software for managing and mobilizing biodiversity data that serves over 2,000 natural history collections and publishes over 95 million occurrence (specimen or observation) records. Visit [Symbiota.org](https://symbiota.org/) to learn more. The core Symbiota code is developed at the Arizona State University Biodiversity Knowledge Integration Center. The central code for this version of Symbiota can be found in [GitHub](https://github.com/BioKIC/Symbiota).
+[Symbiota](https://symbiota.org/) es un software de código abierto para administrar y movilizar datos de biodiversidad que sirve a más de 2000 colecciones de historia natural y publica más de 95 millones de registros de ocurrencia (especímenes u observaciones). Visite [Symbiota.org](https://symbiota.org/) para obtener más información. El código central de Symbiota se desarrolla en el Centro de Integración del Conocimiento de la Biodiversidad de la Universidad Estatal de Arizona. El código central para esta versión de Symbiota se puede encontrar en [GitHub](https://github.com/BioKIC/Symbiota).
