@@ -92,24 +92,15 @@ const config: Config = {
           position: 'left',
           items: [
             {
-              label: 'Latest (1.2.0)',
-              to: 'docs/1.2.0/User%20Guide/Accessibility'
+              label: 'Latest (v1.2.0)',
+              to: 'docs/User%20Guide/Accessibility'
             },
             {
-              label: 'Version (1.1.0)',
+              label: 'v1.1.0',
               to: 'docs/1.1.0/User%20Guide/Accessibility'
-            },
-            {
-              label: 'Version (1.0.0)',
-              to: 'docs/1.0.0/User%20Guide/Accessibility'
             }
           ]
         },
-        // {
-        //   to: 'docs/1.1.0/User%20Guide/Accessibility',
-        //   label: 'Version 1.1.0',
-        //   position: 'left',
-        // },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/atticus29/symbiota-docs-docusaurus',
